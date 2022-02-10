@@ -1,0 +1,295 @@
+@import url(https://fonts.googleapis.com/css?family=Cherry+Swash);
+@import url(https://fonts.googleapis.com/css?family=Noto+Serif);
+@import url(https://fonts.googleapis.com/css?family=Arvo);
+
+body {
+
+    text-align: center;
+    background-image: url("https://www.xmple.com/wallpaper/gradient-highlight-linear-grey-yellow-1920x1080-c2-c0c0c0-ffd700-l-33-a-45-f-21.svg");
+    font-size: 23px;
+    color: #FAFAFA;
+    font-family: 'Cinzel Decorative' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBDO;
+    font-size: 20px;
+    color: black;
+}
+
+#jj {
+    font-family: 'Cherry Swash';
+
+    font-weight: normal;
+    color: black;
+}
+
+p {
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: 'Libre Baskerville';
+    font-size: 16px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: silver;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #FFA000;
+    color: silver;
+    text-decoration: none;
+}
+
+.parallex-inner {
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#img {
+    width: 175px;
+    border-radius: 50%;
+    height: 120px;
+}
+
+#Profile_name {
+    font-size: 40px;
+    color: black;
+    font-family: none;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 80px;
+    margin: 8px auto;
+}
+
+
+
+#tittle {
+    font-size: 40px;
+    padding: 30px;
+    font-family:none;
+    ;
+
+    color: black;
+}
+
+#myCarousel {
+    background-color: ;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+
+}
+
+#tu {
+    font-size: 40px;
+    font-family: none;
+}
+
+.carousel-inner {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: silver;
+    font-size: 20px;
+    font-family: 'Libre Baskerville';
+}
+
+#er {
+    font-size: 40px;
+
+    color: black;
+}
+
+#r {
+    font-family: none;
+    font-size: 40px;
+    color: black;
+}
+
+#if {
+    height: 800px;
+    width: 1000px;
+    color: black;
+}
+
+#Click {
+    font-size: 30px;
+    color: black;
+}
+
+.img-responsive {
+    border-width: 10px;
+    border-radius: 20px;
+    border-color: red;
+}
+
+#z {
+    font-size: 25px;
+    padding: 20px;
+    color: black;
+}
+
+#work {
+    background-image: url("https://us.123rf.com/450wm/alonastep/alonastep1609/alonastep160900236/63520804-gold-texture-golden-gradient-smooth-material-background-textured-bright-metal-with-light-shiny-metal.jpg?ver=6");
+    background-size:1600px;
+}
+
+#myCarousel {
+    background-color: red;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+#myCarouse2 {
+    background-color: #b5d0d4;
+}
+
+#n {
+    font-size: 40px;
+    font-family: none;
+}
+
+#myCarouse2 img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.container {
+    text-align: center;
+}
+
+#app {
+    background-image: url("https://us.123rf.com/450wm/alonastep/alonastep1609/alonastep160900236/63520804-gold-texture-golden-gradient-smooth-material-background-textured-bright-metal-with-light-shiny-metal.jpg?ver=6");
+    background-size:1600px;
+}
+
+
+
+#favorite-coder {
+    background-image: url("https://us.123rf.com/450wm/alonastep/alonastep1609/alonastep160900236/63520804-gold-texture-golden-gradient-smooth-material-background-textured-bright-metal-with-light-shiny-metal.jpg?ver=6");
+    background-size:1600px;
+}
+
+#fav-coder_p {
+    font-size: 30px;
+}
+
+#fav-coder_button {
+    border: 7px solid #424242;
+    border-radius: 100px;
+    background: #000000;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    height: 50px;
+    width: 150px;
+    margin-bottom: 50px;
+}
+
+#inspiration {
+    background-image: url("https://us.123rf.com/450wm/alonastep/alonastep1609/alonastep160900236/63520804-gold-texture-golden-gradient-smooth-material-background-textured-bright-metal-with-light-shiny-metal.jpg?ver=6");
+    background-size: 1600px;
+    padding: 50px;
+}
+
+#sec-3_tittle {
+    font-size: 40px;
+    font-family: none;
+}
+
+#inspire-img {
+    width: 230px;
+    height: 300px;
+    border: 7px solid lightgray;
+    margin: 20px;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+#inspire_p{
+    font-size: 25px;
+    color:black;
+    margin:50px;
+}
+
+#inspire_par{
+    font-size: 25px;
+    color:black;
+    padding:60px;
+}
+
+#about {
+    background-color: pink;
+}
+
+
+#we {
+    font-size: 30px;
+    color: black;
+}
+
+#quite {
+    font-size: 30px;
+    color: #FAFAFA;
+    font-family: 'Cinzel Decorative' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+}
+#contact-tittle{
+    font-size: 35px;
+    color:black;
+    font-family:none;
+}
+#contact{
+    background-image: url("https://us.123rf.com/450wm/alonastep/alonastep1609/alonastep160900236/63520804-gold-texture-golden-gradient-smooth-material-background-textured-bright-metal-with-light-shiny-metal.jpg?ver=6");
+    background-size: 1600px;
+}
+#font{
+    font-size: 60px;
+    padding-top:40px
+    color:blue;
+}
+#z{
+    padding:30px;
+    font-size: 30px;
+}
